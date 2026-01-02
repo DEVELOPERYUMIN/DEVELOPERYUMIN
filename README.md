@@ -12,7 +12,6 @@
 </ul>
 
 <p>📌 <i>I believe meaningful work is built step by step.</i></p>
-
 <p>📌 Looking for opportunities in <b>AI / Data / Cloud Engineering</b></p>
 
     </td>
@@ -23,6 +22,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
