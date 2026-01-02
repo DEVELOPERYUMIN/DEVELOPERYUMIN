@@ -15,6 +15,10 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-3A6FFF?style=for-the-badge) ![GeoJSON](https://img.shields.io/badge/GeoJSON-00A95C?style=for-the-badge) ![SLAM](https://img.shields.io/badge/SLAM-34C759?style=for-the-badge)
 
 
+### 📚 Currently Studying
+
+- **Retrieval-Augmented Generation (RAG)** for LLM-based applications  
+- **Coding Test Preparation** (Data Structures & Algorithms)
 
 
 ### 🏆 Awards & Achievements
@@ -27,10 +31,6 @@
   - Autonomous Driving Project
 
 
-### 📚 Currently Studying
-
-- **Retrieval-Augmented Generation (RAG)** for LLM-based applications  
-- **Coding Test Preparation** (Data Structures & Algorithms)
 
 
 ### 🔬 Research Experience
@@ -57,7 +57,6 @@
   - Designed spatial data management using **GeoJSON** and visualization based on **Kriging models**  
   - Developed a **GIS heatmap rendering web application** using **Flutter** and **Naver Map API**
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDEVELOPERYUMIN&edge_flat=false&title=hits)
 
 
 
