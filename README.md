@@ -39,10 +39,6 @@
 *Jun 2023 – Dec 2024*
 
 - Conducted research on **stability and robustness of medical AI models** for vision testing  
-- Preprocessed and analyzed **50,000+ ophthalmology fundus images**, followed by model fine-tuning  
-- Applied **SpecAugment, Mixup**, and **5-Fold Cross Validation** for robust performance evaluation  
-- Investigated performance degradation factors and established **model reliability and evaluation frameworks**
-
 - **Autonomous Driving Project**
   - Contributed to **obstacle avoidance algorithm development**
   - Participated in autonomous driving competitions
@@ -52,10 +48,8 @@
 *Mar 2025 – Aug 2025*
 
 - Developed an **RF Mapping GIS heatmap visualization system** to identify communication shadow areas and support network optimization decisions  
-- Built an RF mapping pipeline using **GPS and WiFi RSSI data collected by drones**
-  - Implemented a **FastAPI server** for CSV and real-time WebSocket data ingestion with **MongoDB** storage  
-  - Designed spatial data management using **GeoJSON** and visualization based on **Kriging models**  
-  - Developed a **GIS heatmap rendering web application** using **Flutter** and **Naver Map API**
+- Built an RF mapping pipeline using **krigging models, GPS and WiFi RSSI data collected by drones**
+
 
 
 
