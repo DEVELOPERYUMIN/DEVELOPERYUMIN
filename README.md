@@ -19,13 +19,9 @@
 
 
 - **Coding Test Preparation (Data Structures & Algorithms)**  
-  - 자료구조(스택, 큐, 해시, 트리) 및 알고리즘 중심 코딩 테스트 준비  
-  - 시간복잡도·공간복잡도 분석을 포함한 문제 해결 능력 향상
-
 
 
 ---
-
 
 
 ## 🏆 Awards & Achievements
