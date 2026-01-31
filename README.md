@@ -32,10 +32,11 @@ AI 정보공학과 졸업예정 (2021.03~2026.02)<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DEVELOPERYUMIN&show_icons=true&hide_title=false&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=true&count_private=true&cache_seconds=86400" height="170"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DEVELOPERYUMIN&layout=compact&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true&cache_seconds=86400" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DEVELOPERYUMIN&show_icons=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVELOPERYUMIN&layout=compact" height="170"/>
 
 </div>
+
 
 
 <strong>🧑‍💻 Lang & Frameworks</strong><br/><br/>
