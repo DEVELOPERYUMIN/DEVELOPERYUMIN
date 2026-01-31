@@ -20,10 +20,7 @@ AI 시스템 중심의 모델 설계와 실제 환경 적용을 지향합니다.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DEVELOPERYUMIN&theme=default" height="190"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DEVELOPERYUMIN&theme=default" height="190"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=true" height="200"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DEVELOPERYUMIN&theme=default&utcOffset=9" height="190"/>
 
 <br/><br/>
 
@@ -36,32 +33,42 @@ ICEE 창의융합경진대회 최우수상<br/>
 
 <h2>🚀 Featured Projects</h2>
 
-<h3>🔥 Fire Alarm Sound Classification CNN</h3>
-Log-Mel Spectrogram 기반 화재 경보음 탐지<br/>
-100+ 모델 실험 (LightCNN, Depthwise CNN, EfficientNet, MobileNet)
+<h2>🚀 Featured Projects</h2>
 
-<br/><br/>
-
-<h3>📡 Radio Mapping & GIS Visualization</h3>
-드론 기반 WiFi 신호 수집 시스템<br/>
-FastAPI + MongoDB + GeoJSON 지도 시각화
-
-<br/><br/>
-
-<h3>📈 Stock Issue Scanner</h3>
-뉴스 + 거래량 기반 테마주 분석 웹 서비스<br/>
-FastAPI + MySQL + Docker 기반 백엔드 설계
+<h3>👁 Visual Acuity Prediction (Fundus Image AI)</h3>
+안저(Fundus) 이미지 기반 시력 예측 딥러닝 모델 개발<br/>
+데이터 누수 문제 재설계 및 환자 단위 분리 적용<br/>
+계층적 분류 구조를 통한 클래스 모호성 완화 및 신뢰성 향상
 
 <br/><br/>
 
 <h3>🧠 Korean RAG (QLoRA 14B)</h3>
 Retrieval-Augmented Generation 구조 설계<br/>
-LLM 시스템 아키텍처 분석 및 구현
+14B 모델 QLoRA 파인튜닝 및 문서 유용성 평가 실험
+
+<br/><br/>
+
+<h3>🔥 Fire Alarm Sound Classification CNN</h3>
+Log-Mel Spectrogram 기반 화재 경보음 탐지<br/>
+100+ 모델 실험 및 아키텍처 비교 분석
+
+<br/><br/>
+
+<h3>📡 Radio Mapping & GIS Visualization</h3>
+드론 기반 WiFi 신호 수집 및 지도 시각화 시스템<br/>
+FastAPI + MongoDB + GeoJSON 기반 서버 아키텍처 설계
+
+<br/><br/>
+
+<h3>📈 Stock Issue Scanner - 진행중 </h3>
+뉴스 및 거래량 기반 테마주 분석 웹 서비스(코스피/코스닥)<br/>
+FastAPI + MySQL + Docker 기반 백엔드 설계
 
 <br/><br/>
 
 <h3>📚 AI Study Repository</h3>
-RAG, CNN, 모델 아키텍처 연구 정리 및 세미나 발표 로그
+RAG, CNN, 모델 아키텍처 연구 및 세미나 발표 정리
+
 
 <br/><br/>
 
