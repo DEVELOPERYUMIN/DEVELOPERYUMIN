@@ -23,7 +23,8 @@
 <br/><br/>
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false" height="220"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false)
+
 
 </div>
 
