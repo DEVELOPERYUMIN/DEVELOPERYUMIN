@@ -21,14 +21,6 @@
 <img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false" height="220"/>
 </div>
 
-
-<br/><br/>
-
-<h2>🏆 Awards</h2>
-
-ICEE 창의융합경진대회 최우수상<br/>
-학교 대표 교외 이공계 장학생 선발
-
 <br/><br/>
 
 <h2>🚀 Featured Projects</h2>
