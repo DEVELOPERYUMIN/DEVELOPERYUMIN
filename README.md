@@ -11,10 +11,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DEVELOPERYUMIN&show_icons=true&hide_title=true&count_private=true&cache_seconds=86400&theme=dark" height="150"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DEVELOPERYUMIN&layout=compact&cache_seconds=86400&theme=dark" height="150"/>
-
-<br/><br/>
 
 <h2>👋 About Me</h2>
 
@@ -30,30 +26,6 @@ AI 시스템 중심의 모델 설계와 실제 적용을 지향합니다.
 • CNN·LLM 기반 모델 설계 및 실험 중심 개발<br/>
 • RAG, 데이터 파이프라인, 웹 백엔드 시스템 구현<br/>
 • 실제 환경 적용을 고려한 AI 시스템 아키텍처 설계  
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DEVELOPERYUMIN&show_icons=true&hide_title=false&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=true&count_private=true&cache_seconds=86400" height="170"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DEVELOPERYUMIN&layout=compact&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true&cache_seconds=86400" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=github-dark-blue&hide_border=true" height="190"/>
-
-<br/><br/>
-
-<a href="https://solved.ac/profile/여기에_네_아이디">Solved.ac Profile</a>
-
-</div>
-
-
-<h2>🏆 Awards</h2>
-
-ICEE 창의융합경진대회 최우수상<br/>
-학교 대표 교외 이공계 장학생 선발
-
 
 <br/><br/>
 
