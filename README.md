@@ -15,11 +15,9 @@
 
 <h3>AI 정보공학과 졸업예정 (2021.03 입학)</h3>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false" height="220"/>
-
-</div>
+<img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false" width="820"/>
 
 <br/><br/>
 
@@ -29,7 +27,6 @@ ICEE 창의융합경진대회 최우수상<br/>
 학교 대표 교외 이공계 장학생 선발
 
 <br/><br/>
-
 
 <h2>🚀 Featured Projects</h2>
 
@@ -58,8 +55,8 @@ FastAPI + MongoDB + GeoJSON 기반 서버 아키텍처 설계
 
 <br/><br/>
 
-<h3>📈 Stock Issue Scanner - 진행중 </h3>
-뉴스 및 거래량 기반 테마주 분석 웹 서비스(코스피/코스닥)<br/>
+<h3>📈 Stock Issue Scanner - 진행중</h3>
+뉴스 및 거래량 기반 테마주 분석 웹 서비스 (코스피/코스닥)<br/>
 FastAPI + MySQL + Docker 기반 백엔드 설계
 
 <br/><br/>
@@ -67,12 +64,13 @@ FastAPI + MySQL + Docker 기반 백엔드 설계
 <h3>📚 AI Study Repository</h3>
 RAG, CNN, 모델 아키텍처 연구 및 세미나 발표 정리
 
-
 <br/><br/>
 
 <h2>🦾 Skills</h2>
 
-<h3>🧑‍💻 Lang & Frameworks</h3><br/>
+<h3>🧑‍💻 Lang & Frameworks</h3>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -80,7 +78,9 @@ RAG, CNN, 모델 아키텍처 연구 및 세미나 발표 정리
 
 <br/><br/>
 
-<h3>🛠 Infra & Tools</h3><br/>
+<h3>🛠 Infra & Tools</h3>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -91,9 +91,9 @@ RAG, CNN, 모델 아키텍처 연구 및 세미나 발표 정리
 
 <h2>📚 Currently Studying</h2>
 
-우리FISA AI Engineering Bootcamp Participant(2026.01-2026.07)<br/>
+우리FISA AI Engineering Bootcamp Participant (2026.01 - 2026.07)<br/>
 RAG (Retrieval-Augmented Generation) Architecture<br/>
-Data Structures & Algorithms  
+Data Structures & Algorithms
 
 <br/><br/>
 
