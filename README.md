@@ -22,14 +22,14 @@
 
 <h3>AI 정보공학과 졸업예정 (2021.03 입학)</h3>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false" height="220"/>
 </div>
 
-<br/><br/>
+<br/>
 
 <h2>🦾 Skills</h2>
 
@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 # 🏆 Honors & Research Experience
 
@@ -91,31 +91,31 @@
 데이터 누수 문제 재설계 및 환자 단위 분리 적용<br/>
 계층적 분류 구조를 통한 클래스 모호성 완화 및 신뢰성 향상
 
-<br/><br/>
+<br/>
 
 <h3>🧠 Korean RAG (QLoRA 14B)</h3>
 Retrieval-Augmented Generation 구조 설계<br/>
 14B 모델 QLoRA 파인튜닝 및 문서 유용성 평가 실험
 
-<br/><br/>
+<br/>
 
 <h3>🔥 Fire Alarm Sound Classification CNN</h3>
 Log-Mel Spectrogram 기반 화재 경보음 탐지<br/>
 100+ 모델 실험 및 아키텍처 비교 분석
 
-<br/><br/>
+<br/>
 
 <h3>📡 Radio Mapping & GIS Visualization</h3>
 드론 기반 WiFi 신호 수집 및 지도 시각화 시스템<br/>
 FastAPI + MongoDB + GeoJSON 기반 서버 아키텍처 설계
 
-<br/><br/>
+<br/>
 
 <h3>📈 Stock Issue Scanner - 진행중</h3>
 뉴스 및 거래량 기반 테마주 분석 웹 서비스 (코스피/코스닥)<br/>
 FastAPI + MySQL + Docker 기반 백엔드 설계
 
-<br/><br/>
+<br/>
 
 <h3>📚 AI Study Repository</h3>
 RAG, CNN, 모델 아키텍처 연구 및 세미나 발표 정리
