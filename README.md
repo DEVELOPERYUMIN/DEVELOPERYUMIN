@@ -2,7 +2,7 @@
 
 <img src="laf.gif" width="480"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/AI%20Systems-111111?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Architecture%20Design-111111?style=for-the-badge" />
