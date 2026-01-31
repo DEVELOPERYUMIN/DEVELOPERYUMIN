@@ -18,8 +18,7 @@
 
 <br/>
 
-AI 정보공학과 졸업예정 (2021.03 입학)<br/>
-AI 시스템 중심의 모델 설계와 실제 적용을 지향합니다.
+AI 정보공학과 졸업예정 (2021.03~2026.02)<br/>
 
 <br/><br/>
 
@@ -30,6 +29,14 @@ AI 시스템 중심의 모델 설계와 실제 적용을 지향합니다.
 <br/><br/>
 
 <h2>🦾 Skills</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DEVELOPERYUMIN&show_icons=true&hide_title=false&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&hide_border=true&count_private=true&cache_seconds=86400" height="170"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DEVELOPERYUMIN&layout=compact&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true&cache_seconds=86400" height="170"/>
+
+</div>
+
 
 <strong>🧑‍💻 Lang & Frameworks</strong><br/><br/>
 
