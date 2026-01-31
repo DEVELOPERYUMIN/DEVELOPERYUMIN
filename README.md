@@ -10,8 +10,7 @@
 **🧑‍💻 Lang and Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-D00000?style=for-the-badge)  
-### 🚌 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVELOPERYUMIN&layout=)
+
 
 **🛠 Infra & Tools**
 
@@ -93,11 +92,6 @@
 
 ---
 ### ** Connet **
-
-
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDEVELOPERYUMIN&edge_flat=false&title=hits)
-
-
 
 
 
