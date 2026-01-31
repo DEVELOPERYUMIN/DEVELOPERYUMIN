@@ -17,7 +17,12 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false" width="820"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false&cache_seconds=86400" width="800"/>
+
+</div>
+
 
 <br/><br/>
 
