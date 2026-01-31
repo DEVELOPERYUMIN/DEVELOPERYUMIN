@@ -10,9 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVELOPERYUMIN&show_icons=true&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVELOPERYUMIN&layout=compact" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DEVELOPERYUMIN&show_icons=true&hide_title=true&count_private=true&cache_seconds=86400&theme=dark" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DEVELOPERYUMIN&layout=compact&cache_seconds=86400&theme=dark" height="150"/>
 </p>
+
 
 ### 👋 About Me
 AI 정보공학과 졸업예정 (2021.03 입학)  
