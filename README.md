@@ -24,31 +24,6 @@
 
 
 
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false" height="220"/>
-</div>
-
-
-<h3>🧑‍💻 Lang & Frameworks</h3>
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-<br/>
-
-<h3>🛠 Infra & Tools</h3>
-
-<img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<br/>
-
 ---
 
 <h3>🏆 Research Experience & Honors </h3>
@@ -125,5 +100,34 @@ RAG 기반 검색·생성 아키텍처 설계 강의 수강 중 <br/>
 ACMM 정기 독서 및 인사이트 정리
 
 <br/><br/>
+
+---
+
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false" height="220"/>
+</div>
+
+
+<h3>🧑‍💻 Lang & Frameworks</h3>
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<br/>
+
+<h3>🛠 Infra & Tools</h3>
+
+<img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<br/>
+
 
 
