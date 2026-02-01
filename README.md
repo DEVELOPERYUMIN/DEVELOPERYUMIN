@@ -81,35 +81,39 @@ CACM 정기 독서 및 인사이트 정리
 
 ---
 
-<h3> 👩🏻‍🔬 Research Experience   </h3>
+<h3>👩🏻‍🔬 Research Experience</h3>
 
-**Cyber Safety Lab | 학생연구원**
-*medical ai 소속 : 2023.03 – 2025.02*
-*자율주행 소속 : 2024.09 - 2025.02*
+<h4>Cyber Safety Lab | 학생연구원</h4>
+<p><i>Medical AI 소속 : 2023.03 – 2025.02</i><br/>
+<i>자율주행 소속 : 2024.09 – 2025.02</i></p>
 
- AI 기반 안전성 및 신뢰성 연구 수행
- 개인 : 의료 데이터 기반 cnn 모델 개발 및 실험
-연구 보조 : 안과학 의사 대상 llm 모델 개발 보조 
- 자율주행 대회 및 미국 캡스톤 디자인 참여  
+<ul>
+  <li>AI 기반 안전성 및 신뢰성 연구 수행</li>
+  <li><b>개인 연구</b> : 의료 데이터 기반 CNN 모델 개발 및 실험</li>
+  <li><b>연구 보조</b> : 안과학 의사 대상 LLM 모델 개발 보조</li>
+  <li>자율주행 대회 및 미국 캡스톤 디자인 참여</li>
+</ul>
 
-**Multi-Agent Systems Lab | R&D 연구생**
-*2025.03 – 2025.09*
+<br/>
 
- 다중 에이전트 시스템 기반 협력/의사결정 구조 연구
- 연구 프로젝트 실무 개발 및 구현
+<h4>Multi-Agent Systems Lab | R&D 연구생</h4>
+<p><i>2025.03 – 2025.09</i></p>
 
+<ul>
+  <li>다중 에이전트 시스템 기반 협력/의사결정 구조 연구</li>
+  <li>연구 프로젝트 실무 개발 및 구현</li>
+</ul>
 
-<h3> 🏆 Awards & Competition Highlights </h3>
+<h3>🏆 Awards & Competition Highlights</h3>
 
-2025 ICEE 창의·융합 경진대회 – 최우수상
+<ul>
+  <li><b>2025 ICEE 창의·융합 경진대회</b> – 최우수상(2등)</li>
+  <li><b>VAIV 한국어 LLM Open-Book QA Competition</b> – Final Rank 4th</li>
+  <li><b>F1TENTH Korean Championship</b> – 5th Place</li>
+  <li><b>2024 교외 이공계 장학생</b> – 학교 대표 선발</li>
+  <li><b>2025 Academic Excellence</b> – 글로컬 디지털 배지 취득</li>
+</ul>
 
-VAIV 한국어 LLM Open-Book QA 대회 – 최종 4위
-
-F1 tenth Korean Championship – 5위
-
-2024 학교 대표 이공계 교외장학생 선발
-
-2025학년도 성적우수자 대상 글로컬 사업 디지털 배지 취득
 
 
 
