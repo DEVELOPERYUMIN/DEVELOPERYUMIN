@@ -62,7 +62,9 @@ FastAPI + MongoDB + GeoJSON 기반 서버 아키텍처 설계
 <br/>
 
 <h3>📚 AI Study Repository</h3>
-RAG, CNN, 모델 아키텍처 연구 및 세미나 발표 정리
+RAG, CNN, 모델 아키텍처 연구 자료 정리 
+세미나 자료
+CACM 저널 인사이트 
 
 <br/>
 
@@ -73,7 +75,7 @@ RAG, CNN, 모델 아키텍처 연구 및 세미나 발표 정리
 우리FISA AI 엔지니어링 부트캠프 참여 (2026.01 - 2026.07)<br/>
 RAG 기반 검색·생성 아키텍처 설계 강의 수강 중 <br/>
 코딩테스트 준비<br/>
-ACMM 정기 독서 및 인사이트 정리
+CACM 정기 독서 및 인사이트 정리
 
 <br/>
 
