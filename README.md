@@ -53,8 +53,7 @@ Retrieval-Augmented Generation 구조 설계<br/>
 실내 화재 상황 대응을 위한 자율 드론 기반 재난 유도 시스템 설계<br/>
 Log-Mel Spectrogram 기반 화재 경보음 탐지<br/>
 100+ 모델 실험 및 아키텍처 비교 분석<br/>
-AI + 센서 + 서버 아키텍처 통합 설계 및 실험
-
+AI + 센서 + 서버 아키텍처 통합 설계 
 
 <br/>
 
@@ -65,9 +64,9 @@ FastAPI + MongoDB + GeoJSON 기반 서버 아키텍처 설계
 <br/>
 
 <h3>📚 AI Study Repository</h3>
-RAG, CNN, 모델 아키텍처 연구 자료 정리 
-세미나 자료
-CACM 저널 인사이트 
+RAG, CNN, 모델 아키텍처 연구 자료 정리<br/>
+세미나 자료<br/>
+CACM 저널 인사이트<br/>
 
 <br/>
 
@@ -93,7 +92,7 @@ CACM 정기 독서 및 인사이트 정리
 <ul>
   <li>AI 기반 안전성 및 신뢰성 연구 수행</li>
   <li><b>개인 연구</b> : 의료 데이터 기반 CNN 모델 개발 및 실험</li>
-  <li><b>연구 보조</b> : 안과학 의사 대상 LLM 모델 개발 보조</li>
+  <li><b>연구 보조</b> : 안과학 의사 대상 진단 보조 LLM 개발 보조</li>
   <li>자율주행 대회 및 미국 캡스톤 디자인 참여</li>
 </ul>
 
