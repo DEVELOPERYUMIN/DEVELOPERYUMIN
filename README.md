@@ -107,12 +107,12 @@ CACM 정기 독서 및 인사이트 정리
 <h3>🏆 Awards & Competition Highlights</h3>
 
 <ul>
-  <li><b>VAIV 한국어 LLM Open-Book QA Competition</b> – Final Rank 4th</li>
-  <li><b>F1TENTH Korean Championship</b> – 5th Place</li>
-  <li><b>2024 교외 이공계 장학생</b> – 학교 대표 선발</li>
-  <li><b>2025 성적우수상 대상 </b> – 글로컬 디지털 배지 취득</li>
-  <li><b>2025 IoTing Life 융합 아이디어경진대회 </b> – 최우수상</li>
-  <li><b>2025 교내 창의융합 공학 동아리 활동상</b> - 장려상</li>
+  <li>VAIV 한국어 LLM Open-Book QA Competition– Final Rank 4th</li>
+  <li>F1TENTH Korean Championship – 5th Place</li>
+  <li>2024 교외 이공계 장학생 – 학교 대표 선발</li>
+  <li>2025 성적우수자 대상 – 글로컬 디지털 배지 취득</li>
+  <li>2025 IoTing Life 융합 아이디어경진대회  – 최우수상</li>
+  <li>2025 교내 창의융합 공학 동아리 활동상 - 장려상</li>
 </ul>
 
 
